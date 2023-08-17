@@ -1,0 +1,3 @@
+/home/djq19/workfiles/VirtualBones/VCMeshConv/CMakeFiles/GraphSampling.dir
+/home/djq19/workfiles/VirtualBones/VCMeshConv/CMakeFiles/edit_cache.dir
+/home/djq19/workfiles/VirtualBones/VCMeshConv/CMakeFiles/rebuild_cache.dir
